@@ -1,3 +1,2 @@
 # angular-2-client-for-spring-rest-service
-[Spring boot Rest Web Service Example here](https://github.com/mansha99/springboot-rest)
-https://github.com/mansha99/springboot-rest
+You can find Spring boot Rest Web Service Example <a href="https://github.com/mansha99/springboot-rest" target="_blank">here</a>
